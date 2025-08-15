@@ -37,6 +37,30 @@ A sophisticated, production-ready web application that generates code using AI m
 - **WebSocket Communication**: Real-time bidirectional communication
 - **Modular Design**: Clean separation of concerns with extensible architecture
 
+## 📸 Screenshots
+
+### Main Interface - Light Theme
+<img width="1819" height="1049" alt="UI-Light" src="https://github.com/user-attachments/assets/ee283bce-4d3e-4116-9430-5ac52164bc2a" />
+
+*Clean, modern interface with light theme showcasing the main workspace*
+
+### Main Interface - Dark Theme
+<img width="1817" height="1047" alt="UI-Dark" src="https://github.com/user-attachments/assets/3352973c-5346-46dd-9a47-7a01efe72645" />
+
+*Elegant dark theme interface with enhanced contrast and readability*
+
+### Settings Panel & Mobile Interface
+
+| Settings Panel | Mobile Responsive Design |
+|:---------------:|:-------------------------:|
+| <img width="400" alt="settings" src="https://github.com/user-attachments/assets/f7d9a215-0c99-48ed-83ca-2980d0cc1388" /> | <img width="300" alt="UI- Dark-Mobile" src="https://github.com/user-attachments/assets/b08d9fd6-6e9b-4119-99df-f6ed45adc3f9" /> |
+| *Comprehensive settings with theme switching, font size controls, and customization options* | *Fully responsive mobile interface with optimized touch controls and collapsible sidebar* |
+
+### Code Generation & Syntax Highlighting
+<img width="1943" height="636" alt="codeblock" src="https://github.com/user-attachments/assets/582cfcd0-6002-4f65-ac71-726a83725b74" />
+
+*Generated code with intelligent language detection and syntax highlighting for 20+ programming languages*
+
 ## 🛠️ Technology Stack
 
 ### Backend
