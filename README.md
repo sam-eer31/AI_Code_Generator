@@ -112,7 +112,6 @@ uvicorn backend.main:app --reload --port 8000 --host 127.0.0.1
 ### 5. Access the Application
 Open your browser and navigate to:
 - **Frontend**: http://127.0.0.1:8000
-- **API Docs**: http://127.0.0.1:8000/docs
 
 ## ⚙️ Configuration
 
@@ -352,4 +351,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ by the Code Generator Team**
 
 *Transform your ideas into code with the power of AI*
+
 
