@@ -54,7 +54,7 @@ A sophisticated, production-ready web application that generates code using AI m
 | Settings Panel | Mobile Responsive Design |
 |:---------------:|:-------------------------:|
 | <img width="400" alt="settings" src="https://github.com/user-attachments/assets/f7d9a215-0c99-48ed-83ca-2980d0cc1388" /> | <img width="300" alt="UI- Dark-Mobile" src="https://github.com/user-attachments/assets/b08d9fd6-6e9b-4119-99df-f6ed45adc3f9" /> |
-| *Comprehensive settings with theme switching, font size controls, and customization options* | *Fully responsive mobile interface with optimized touch controls and collapsible sidebar* |
+| *Comprehensive settings with theme switching and code font size controls* | *Fully responsive mobile interface with optimized touch controls and collapsible sidebar* |
 
 ### Code Generation & Syntax Highlighting
 <img width="1943" height="636" alt="codeblock" src="https://github.com/user-attachments/assets/582cfcd0-6002-4f65-ac71-726a83725b74" />
@@ -356,6 +356,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Transform your ideas into code with the power of AI*
+
 
 
 
