@@ -2,6 +2,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com)
+[![Ollama](https://img.shields.io/badge/Ollama-Local%20AI%20Models-orange.svg)](https://ollama.ai)
+[![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL%20Database-green.svg)](https://mongodb.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **AI-Powered Code Generation with Real-Time Streaming Support**
@@ -179,7 +181,6 @@ The application works with any Ollama model. Popular options include:
 ### Keyboard Shortcuts
 - `Ctrl + Enter` - Generate code
 - `Escape` - Stop generation / Close modals
-- `Ctrl + S` - Save current state (auto-saved)
 
 ## 🏗️ Project Structure
 
@@ -356,6 +357,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Transform your ideas into code with the power of AI*
+
 
 
 
