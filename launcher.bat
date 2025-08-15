@@ -86,9 +86,18 @@ if "%PORT%"=="" set PORT=8000
 echo Starting FastAPI server on port %PORT%...
 start cmd /k "uvicorn backend.main:app --reload --port %PORT% --host 127.0.0.1"
 
-echo Waiting for server to start...
-timeout /t 3 /nobreak >nul
+echo Waiting for server to start and be ready...
+echo Checking if server is responding...
 
+:WAIT_FOR_SERVER
+timeout /t 2 /nobreak >nul
+powershell -Command "try { $response = Invoke-WebRequest -Uri 'http://127.0.0.1:%PORT%/ready' -TimeoutSec 5 -ErrorAction Stop; if ($response.StatusCode -eq 200) { exit 0 } else { exit 1 } } catch { exit 1 }" >nul 2>&1
+if %errorlevel% neq 0 (
+    echo Server not ready yet, waiting...
+    goto :WAIT_FOR_SERVER
+)
+
+echo Server is ready and responding!
 echo Opening frontend in browser...
 start "" "http://127.0.0.1:%PORT%"
 
