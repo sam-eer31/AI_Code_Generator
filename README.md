@@ -220,7 +220,7 @@ code-generator/
 ### Local Development Setup
 ```bash
 # Clone and setup
-git clone https://github.com/yourusername/code-generator.git
+git clone https://github.com/sam-eer31/AI_Code_Generator
 cd code-generator
 
 # Install development dependencies
@@ -319,9 +319,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 ### Getting Help
-- **Issues**: [GitHub Issues](https://github.com/yourusername/code-generator/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/code-generator/discussions)
-- **Wiki**: [Project Wiki](https://github.com/yourusername/code-generator/wiki)
+- **Issues**: [GitHub Issues](https://github.com/sam-eer31/AI_Code_Generator/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/sam-eer31/AI_Code_Generator/discussions)
+- **Wiki**: [Project Wiki](https://github.com/sam-eer31/AI_Code_Generator/wiki)
 
 ### Common Issues
 - **MongoDB Connection**: Ensure MongoDB is running on port 27017
@@ -340,16 +340,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] **Mobile App**: Native mobile applications
 - [ ] **Plugin System**: Extensible architecture for custom features
 
-### Version History
-- **v1.0.0** - Initial release with core functionality
-- **v1.1.0** - Enhanced UI/UX and performance improvements
-- **v1.2.0** - Advanced model management and customization
-- **v2.0.0** - Major architecture improvements and new features
-
 ---
 
-**Made with ❤️ by the Code Generator Team**
-
 *Transform your ideas into code with the power of AI*
+
 
 
