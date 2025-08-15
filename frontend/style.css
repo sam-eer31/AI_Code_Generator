@@ -741,6 +741,7 @@ body {
     align-items: center;
     gap: var(--spacing-xs);
     padding: var(--spacing-xs) var(--spacing-sm);
+    padding-right: calc(var(--spacing-sm) + 1.2em);
     border-radius: var(--radius-md);
     font-size: var(--font-size-xs);
     font-weight: 600;
@@ -773,7 +774,7 @@ body {
 
 .status-badge::after {
     position: absolute;
-    right: var(--spacing-xs);
+    right: var(--spacing-sm);
     top: 50%;
     transform: translateY(-50%);
     transition: all var(--transition-fast);
