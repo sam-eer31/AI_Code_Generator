@@ -56,7 +56,7 @@ class OllamaClient:
         
         try:
             # Use a shorter timeout for individual requests to prevent blocking
-            request_timeout = httpx.Timeout(60.0, connect=5.0, read=30.0, write=5.0)
+            request_timeout = httpx.Timeout(300.0, connect=5.0, read=300.0, write=5.0)
             
             async with httpx.AsyncClient(timeout=request_timeout) as client:
                 async with client.stream(
@@ -142,3 +142,4 @@ class OllamaClient:
 
 # Global instance
 ollama_client = OllamaClient()
+
