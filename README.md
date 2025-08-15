@@ -71,7 +71,7 @@ Before running this application, ensure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/code-generator.git
+git clone https://github.com/sam-eer31/AI_Code_Generator
 cd code-generator
 ```
 
@@ -352,3 +352,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ by the Code Generator Team**
 
 *Transform your ideas into code with the power of AI*
+
