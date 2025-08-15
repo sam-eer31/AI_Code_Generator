@@ -331,18 +331,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔮 Roadmap
 
 ### Upcoming Features
+- [ ] **Code Execution Engine**: Run generated code directly in the browser with sandboxed environments
+- [ ] **One-Click Code Explanation**: Get instant AI-powered explanations of any code snippet
+- [ ] **Multi-Version Generation**: Generate multiple variations of the same code within a single generation session
 - [ ] **Multi-User Support**: User authentication and permissions
 - [ ] **Project Management**: Organize generations into projects
-- [ ] **API Integration**: Connect to external code repositories
-- [ ] **Advanced Models**: Support for more AI model providers
 - [ ] **Code Analysis**: Static analysis and optimization suggestions
-- [ ] **Collaboration**: Real-time collaborative editing
-- [ ] **Mobile App**: Native mobile applications
-- [ ] **Plugin System**: Extensible architecture for custom features
 
 ---
 
 *Transform your ideas into code with the power of AI*
+
 
 
 
