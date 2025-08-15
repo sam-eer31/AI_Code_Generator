@@ -185,7 +185,7 @@ The application works with any Ollama model. Popular options include:
 
 ```
 code-generator/
-├── backend/                 # FastAPI backend application
+├── backend/                # FastAPI backend application
 │   ├── __init__.py         # Package initialization
 │   ├── main.py             # Main FastAPI application
 │   ├── ollama_client.py    # Ollama API client
@@ -197,7 +197,7 @@ code-generator/
 ├── .venv/                  # Python virtual environment
 ├── install.bat             # Windows installation script
 ├── launcher.bat            # Windows launcher script
-├── requirements.txt         # Python dependencies
+├── requirements.txt        # Python dependencies
 └── README.md               # This file
 ```
 
@@ -356,6 +356,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Transform your ideas into code with the power of AI*
+
 
 
 
