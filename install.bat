@@ -29,6 +29,7 @@ if not exist .env (
 echo.
 echo Installation complete! 
 echo Make sure MongoDB is running on localhost:27017
-echo Make sure Ollama is running with qwen2.5:14b model
+echo Make sure Ollama is running
 echo Run launcher.bat to start the application
 pause
+
