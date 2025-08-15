@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)](https://github.com/yourusername/code-generator)
 
 > **AI-Powered Code Generation with Real-Time Streaming Support**
 
@@ -309,19 +308,11 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Ollama Team** - For the amazing local AI inference platform
-- **FastAPI Community** - For the excellent web framework
-- **MongoDB Team** - For the robust database solution
-- **Open Source Contributors** - For the libraries and tools that make this possible
 
 ## 📞 Support
 
 ### Getting Help
 - **Issues**: [GitHub Issues](https://github.com/sam-eer31/AI_Code_Generator/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/sam-eer31/AI_Code_Generator/discussions)
-- **Wiki**: [Project Wiki](https://github.com/sam-eer31/AI_Code_Generator/wiki)
 
 ### Common Issues
 - **MongoDB Connection**: Ensure MongoDB is running on port 27017
@@ -341,6 +332,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Transform your ideas into code with the power of AI*
+
 
 
 
