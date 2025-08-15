@@ -184,7 +184,7 @@ The application works with any Ollama model. Popular options include:
 ## 🏗️ Project Structure
 
 ```
-code-generator/
+AI-Code-Generator/
 ├── backend/                # FastAPI backend application
 │   ├── __init__.py         # Package initialization
 │   ├── main.py             # Main FastAPI application
@@ -356,6 +356,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Transform your ideas into code with the power of AI*
+
 
 
 
